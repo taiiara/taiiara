@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/83gPCdc.gif" width="600px"/>
+  <img src="https://media.giphy.com/media/CUjD5Am2hN2rA2dY2W/giphy.gif" width="600px"/>
 </div>
 <br>
 
@@ -17,11 +17,11 @@
 
 ### 👩‍💻 About Me
 
-[cite_start]I'm a Quality Assurance (QA) Engineer passionate about making sure software works perfectly[cite: 34]. [cite_start]My specialty is creating and maintaining automated tests with tools like **Cypress**, **Playwright**, and **WebdriverIO**[cite: 34, 47]. [cite_start]I have a solid background in **JavaScript** and **TypeScript** and love a good problem-solving challenge[cite: 35, 38]!
+I'm a Quality Assurance (QA) Engineer passionate about making sure software works perfectly. My specialty is creating and maintaining automated tests with tools like **Cypress**, **Playwright**, and **WebdriverIO**. I have a solid background in **JavaScript** and **TypeScript** and love a good problem-solving challenge!
 
-- [cite_start]🔭 I’m currently a **Software QA Engineer** at **Object Edge**[cite: 44, 45].
-- [cite_start]🌱 I’m studying **Systems Analysis and Development** at **UniRitter**[cite: 40].
-- [cite_start]🚀 I’m gearing up for a Postgraduate Degree in **Software Quality Engineering and Testing** at **PUC Minas**[cite: 41, 42].
+- 🔭 I’m currently a **Software QA Engineer** at **Object Edge**.
+- 🌱 I’m studying **Systems Analysis and Development** at **UniRitter**.
+- 🚀 I’m gearing up for a Postgraduate Degree in **Software Quality Engineering and Testing** at **PUC Minas**.
 
 ---
 
@@ -29,9 +29,21 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,cypress,playwright,postman,sql,jenkins,git,github,jira&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cypress,playwright,postman,sql,csharp,cpp,git,jenkins,jira&perline=6" />
   </a>
 </p>
+
+---
+
+### 🎓 Education
+
+- [cite_start]**Postgraduate Degree, Software Quality Engineering and Testing** [cite: 41]
+  - [cite_start]*PUC Minas* [cite: 42]
+  - [cite_start]`August 2025 - February 2027` [cite: 42]
+
+- [cite_start]**Degree, Systems Analysis and Development** [cite: 40]
+  - [cite_start]*UniRitter* [cite: 40]
+  - [cite_start]`July 2022 - July 2025` [cite: 40]
 
 ---
 
@@ -39,23 +51,10 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=taiiara&theme=dracula&hide_border=true" />
-  
   <img src="https://metrics.lecoq.io/taiiara?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&base.hireable=false&plugin_isocalendar=1&plugin_languages=1&plugin_habits=1&config_timezone=America%2FSao_Paulo" width="85%"/>
 </div>
 
----
-
-### 🏆 Certifications
-
-- [cite_start]**API Test Automation With Postman** - Test Automation University (2023) [cite: 17, 18]
-- [cite_start]**Advanced Cypress** - Test Automation University (2023) [cite: 25, 26]
-- [cite_start]**Continuous Integration with Jenkins** - Test Automation University (2023) [cite: 31]
-- [cite_start]**Adaptability and Resiliency** - Coursera (2024) [cite: 19, 20]
-- [cite_start]**Git and Github: Control and share your code** - Alura (2023) [cite: 21, 23]
-- [cite_start]**SQL** - SoloLearn (2022) [cite: 27, 28]
-- [cite_start]**English Certificate 77% (C1 Advanced)** - EF SET (2022) [cite: 29, 30]
-
 <br>
 <div align="center">
-  <img src="https://i.imgur.com/74xRO1I.gif" width="400px"/>
+  <img src="https://media.giphy.com/media/3o7T9C0sWAnI3c22aY/giphy.gif" width="300px"/>
 </div>
