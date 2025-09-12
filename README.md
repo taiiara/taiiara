@@ -29,7 +29,7 @@ I'm a Quality Assurance (QA) Engineer passionate about making sure software work
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,postman,cy,github,githubactions,gherkin,git,jenkins,jira,ai,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,postman,github,githubactions,gherkin,git,jenkins,ai,vscode" />
   </a>
 </p>
 
