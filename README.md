@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/CUjD5Am2hN2rA2dY2W/giphy.gif" width="600px"/>
+  <img src="https://media.giphy.com/media/DoIquD1MhDGMw/giphy.gif" width="600px"/>
 </div>
 <br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F752E2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Taiara+Regis!;QA+Engineer;Automated+Testing+Specialist;Cat+Lover+%E2%99%A5" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F752E2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Taiara+Regis!;QA+Engineer;Gamer;Cat+Lover" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -56,5 +56,5 @@ I'm a Quality Assurance (QA) Engineer passionate about making sure software work
 
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7T9C0sWAnI3c22aY/giphy.gif" width="300px"/>
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300px"/>
 </div>
