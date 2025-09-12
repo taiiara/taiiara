@@ -20,8 +20,8 @@
 I'm a Quality Assurance (QA) Engineer passionate about making sure software works perfectly. My specialty is creating and maintaining automated tests with tools like **Cypress**, **Playwright**, and **WebdriverIO**. I have a solid background in **JavaScript** and **TypeScript** and love a good problem-solving challenge!
 
 - 🔭 I’m currently a **Software QA Engineer** at **Object Edge**.
-- 🌱 I’m studying **Systems Analysis and Development** at **UniRitter**.
-- 🚀 I’m gearing up for a Postgraduate Degree in **Software Quality Engineering and Testing** at **PUC Minas**.
+- [cite_start]🚀 I’m currently pursuing a **Postgraduate Degree in Software Quality Engineering and Testing** at **PUC Minas**[cite: 42].
+- [cite_start]🎓 Graduated in **Systems Analysis and Development** from **UniRitter**[cite: 40].
 
 ---
 
@@ -31,7 +31,7 @@ I'm a Quality Assurance (QA) Engineer passionate about making sure software work
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,cypress,playwright,postman,sql,csharp,cpp,git,jenkins,jira&perline=6" />
   </a>
-</p>
+p>
 
 ---
 
@@ -50,7 +50,6 @@ I'm a Quality Assurance (QA) Engineer passionate about making sure software work
 ### 📊 My GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=taiiara&theme=dracula&hide_border=true" />
   <img src="https://metrics.lecoq.io/taiiara?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&base.hireable=false&plugin_isocalendar=1&plugin_languages=1&plugin_habits=1&config_timezone=America%2FSao_Paulo" width="85%"/>
 </div>
 
