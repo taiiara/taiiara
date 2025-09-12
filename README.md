@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRscmhvbzNocjVqZmRjbG8xMmo5bWlqZGJzMnBmaXNucWdpZnpibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="600px"/>
+  <img src="https://i.imgur.com/83gPCdc.gif" width="600px"/>
 </div>
 <br>
 
@@ -17,15 +17,11 @@
 
 ### 👩‍💻 About Me
 
-I'm a Quality Assurance (QA) Engineer passionate about making sure software works perfectly. My specialty is creating and maintaining automated tests with tools like **Cypress**, **Playwright**, and **WebdriverIO**. I have a solid background in **JavaScript** and **TypeScript** and love a good problem-solving challenge!
+[cite_start]I'm a Quality Assurance (QA) Engineer passionate about making sure software works perfectly[cite: 34]. [cite_start]My specialty is creating and maintaining automated tests with tools like **Cypress**, **Playwright**, and **WebdriverIO**[cite: 34, 47]. [cite_start]I have a solid background in **JavaScript** and **TypeScript** and love a good problem-solving challenge[cite: 35, 38]!
 
-- [cite_start]🔭 I’m currently a **Software QA Engineer** at [Object Edge](https://www.objectedge.com/). [cite: 44, 45]
-- [cite_start]🌱 I’m studying **Systems Analysis and Development** at [UniRitter](https://www.uniritter.edu.br/). [cite: 40]
-- [cite_start]🚀 I’m gearing up for a Postgraduate Degree in **Software Quality Engineering and Testing**. [cite: 41, 42]
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVldnA0MnY3ZThid3g3cDd6dDI1aTdyZ2s3bHN3MGR4ZnBucHZtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GkhJqN8aT3iM/giphy.gif" width="150px"/>
-</div>
+- [cite_start]🔭 I’m currently a **Software QA Engineer** at **Object Edge**[cite: 44, 45].
+- [cite_start]🌱 I’m studying **Systems Analysis and Development** at **UniRitter**[cite: 40].
+- [cite_start]🚀 I’m gearing up for a Postgraduate Degree in **Software Quality Engineering and Testing** at **PUC Minas**[cite: 41, 42].
 
 ---
 
@@ -39,10 +35,12 @@ I'm a Quality Assurance (QA) Engineer passionate about making sure software work
 
 ---
 
-### 📊 My Metrics & Stats
+### 📊 My GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/taiiara?template=classic&config_timezone=America/Sao_Paulo&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&lines=true&people=true&achievements=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&languages=true&languages.colors=github&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.details=bytes-size%2C%20percentage&languages.analysis.timeout=15&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&habits=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&config.timezone=America%2FSao_Paulo" width="85%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=taiiara&theme=dracula&hide_border=true" />
+  
+  <img src="https://metrics.lecoq.io/taiiara?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&base.hireable=false&plugin_isocalendar=1&plugin_languages=1&plugin_habits=1&config_timezone=America%2FSao_Paulo" width="85%"/>
 </div>
 
 ---
@@ -53,10 +51,11 @@ I'm a Quality Assurance (QA) Engineer passionate about making sure software work
 - [cite_start]**Advanced Cypress** - Test Automation University (2023) [cite: 25, 26]
 - [cite_start]**Continuous Integration with Jenkins** - Test Automation University (2023) [cite: 31]
 - [cite_start]**Adaptability and Resiliency** - Coursera (2024) [cite: 19, 20]
-- [cite_start]**Git and Github: Control and share your code** - Alura (2023) [cite: 21, 23, 24]
+- [cite_start]**Git and Github: Control and share your code** - Alura (2023) [cite: 21, 23]
 - [cite_start]**SQL** - SoloLearn (2022) [cite: 27, 28]
 - [cite_start]**English Certificate 77% (C1 Advanced)** - EF SET (2022) [cite: 29, 30]
 
+<br>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2w1bzZ5NmI2enZpdGoybDFidjNvc3QxYmdicDhnaTlycHFzNHI5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpbnoe3UIa8b1GR42s/giphy.gif" width="400px"/>
+  <img src="https://i.imgur.com/74xRO1I.gif" width="400px"/>
 </div>
