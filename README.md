@@ -20,8 +20,8 @@
 I'm a Quality Assurance (QA) Engineer passionate about making sure software works perfectly. My specialty is creating and maintaining automated tests with tools like **Cypress**, **Playwright**, and **WebdriverIO**. I have a solid background in **JavaScript** and **TypeScript** and love a good problem-solving challenge!
 
 - 🔭 I’m currently a **Software QA Engineer** at **Object Edge**.
-- [cite_start]🚀 I’m currently pursuing a **Postgraduate Degree in Software Quality Engineering and Testing** at **PUC Minas**[cite: 42].
-- [cite_start]🎓 Graduated in **Systems Analysis and Development** from **UniRitter**[cite: 40].
+- 🚀 I’m currently pursuing a **Postgraduate Degree in Software Quality Engineering and Testing** at **PUC Minas**.
+- 🎓 Graduated in **Systems Analysis and Development** from **UniRitter**.
 
 ---
 
@@ -31,26 +31,27 @@ I'm a Quality Assurance (QA) Engineer passionate about making sure software work
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,cypress,playwright,postman,sql,csharp,cpp,git,jenkins,jira&perline=6" />
   </a>
-p>
+</p>
 
 ---
 
 ### 🎓 Education
 
-- [cite_start]**Postgraduate Degree, Software Quality Engineering and Testing** [cite: 41]
-  - [cite_start]*PUC Minas* [cite: 42]
-  - [cite_start]`August 2025 - February 2027` [cite: 42]
+- **Postgraduate Degree, Software Quality Engineering and Testing**
+  - *PUC Minas*
+  - `August 2025 - February 2027`
 
-- [cite_start]**Degree, Systems Analysis and Development** [cite: 40]
-  - [cite_start]*UniRitter* [cite: 40]
-  - [cite_start]`July 2022 - July 2025` [cite: 40]
+- **Degree, Systems Analysis and Development**
+  - *UniRitter*
+  - `July 2022 - July 2025`
 
 ---
 
-### 📊 My GitHub Stats & Metrics
+### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/taiiara?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&base.hireable=false&plugin_isocalendar=1&plugin_languages=1&plugin_habits=1&config_timezone=America%2FSao_Paulo" width="85%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taiiara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiiara&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br>
