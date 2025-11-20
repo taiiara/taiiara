@@ -17,9 +17,9 @@
 
 ### 👩‍💻 About Me
 
-I'm a Quality Assurance (QA) Engineer passionate about making sure software works perfectly. My specialty is creating and maintaining automated tests with tools like **Cypress**, **Playwright**, and **WebdriverIO**. I have a solid background in **JavaScript** and **TypeScript** and love a good problem-solving challenge!
+I'm a Senior QA Engineer passionate about making sure software works perfectly. My specialty is creating and maintaining automated tests with tools like **Cypress**, **Playwright**, and **WebdriverIO**. I have a solid background in **JavaScript** and **TypeScript** and love a good problem-solving challenge!
 
-- 🔭 I’m currently a **Software QA Engineer** at **Object Edge**.
+- 🔭 I’m currently a **Senior QA Engineer** at **Dois na Oito**.
 - 🚀 I’m currently pursuing a **Postgraduate Degree in Software Quality Engineering and Testing** at **PUC Minas**.
 - 🎓 Graduated in **Systems Analysis and Development** from **UniRitter**.
 
